@@ -4,13 +4,6 @@
 <h1 align="center">Hi 👋, I'm Ali Abdinejad</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🌱 I’m currently learning **Node.js**
-<!--
-- 👨‍💻 All of my projects are available at [webds.ir](webds.ir)
-
-- 📝 I regularly write articles on [webds.ir](webds.ir)
--->
-- 📫 How to reach me **aliabdi22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +14,11 @@
 ---
 
 ### :man_technologist: About Me :
+
+- 🌱 I’m currently learning **Node.js**
+
+- 📫 How to reach me **aliabdi22@gmail.com**
+
 
 ---
 
@@ -48,12 +46,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdinejad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 ---
 
 ### :writing_hand: Blog Posts :
 
-
+-->
 <!--
 **abdinejad/abdinejad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
