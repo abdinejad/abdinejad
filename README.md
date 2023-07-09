@@ -5,11 +5,11 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **Node.js**
-
+<!--
 - 👨‍💻 All of my projects are available at [webds.ir](webds.ir)
 
 - 📝 I regularly write articles on [webds.ir](webds.ir)
-
+-->
 - 📫 How to reach me **aliabdi22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
