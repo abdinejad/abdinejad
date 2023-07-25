@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **aliabdi22@gmail.com**
 
