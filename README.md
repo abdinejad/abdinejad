@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **aliabdi22@gmail.com**
+- 📫 How to reach me ****
 
 
 ---
