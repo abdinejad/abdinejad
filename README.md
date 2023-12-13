@@ -11,7 +11,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### About Me :
 
 - 🌱 I’m currently learning **React**
 
@@ -20,7 +20,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -38,7 +38,7 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdinejad&theme=dark)](https://git.io/streak-stats)
 
