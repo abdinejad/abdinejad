@@ -13,7 +13,7 @@
 
 ### About Me :
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nodejs**
 
 - 📫 How to reach me ****
 
